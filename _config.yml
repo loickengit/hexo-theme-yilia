@@ -32,6 +32,10 @@ rss: /atom.xml
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
 root: /
 
+# 是否开启字数统计
+#不需要使用，直接设置值为false，或注释掉
+word_count: true
+
 # Content
 
 # 文章太长，截断按钮文字
